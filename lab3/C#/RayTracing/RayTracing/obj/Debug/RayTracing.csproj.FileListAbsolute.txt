@@ -1,0 +1,6 @@
+E:\FER\C#\RayTracing\RayTracing\bin\Debug\RayTracing.exe
+E:\FER\C#\RayTracing\RayTracing\bin\Debug\RayTracing.pdb
+E:\FER\C#\RayTracing\RayTracing\obj\Debug\RayTracing.csprojAssemblyReference.cache
+E:\FER\C#\RayTracing\RayTracing\obj\Debug\RayTracing.csproj.CoreCompileInputs.cache
+E:\FER\C#\RayTracing\RayTracing\obj\Debug\RayTracing.exe
+E:\FER\C#\RayTracing\RayTracing\obj\Debug\RayTracing.pdb

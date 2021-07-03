@@ -1,0 +1,6 @@
+C:\Programming\OVO\lab3\C#\RayTracing_C#\RayTracing\RayTracing\obj\Debug\RayTracing.csproj.CoreCompileInputs.cache
+C:\Programming\OVO\lab3\C#\RayTracing_C#\RayTracing\RayTracing\bin\Debug\RayTracing.exe
+C:\Programming\OVO\lab3\C#\RayTracing_C#\RayTracing\RayTracing\bin\Debug\RayTracing.pdb
+C:\Programming\OVO\lab3\C#\RayTracing_C#\RayTracing\RayTracing\obj\Debug\RayTracing.exe
+C:\Programming\OVO\lab3\C#\RayTracing_C#\RayTracing\RayTracing\obj\Debug\RayTracing.pdb
+C:\Programming\OVO\lab3\C#\RayTracing_C#\RayTracing\RayTracing\obj\Debug\RayTracing.csprojAssemblyReference.cache
